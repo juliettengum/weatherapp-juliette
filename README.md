@@ -18,6 +18,7 @@ Usage
 Mock-Up
 
 ![Mock-Up Image](image/mgockup.png)
+[Link to my deployed page](https://juliettengum.github.io/weatherapp-juliette/)
 
 Technologies Used
 
