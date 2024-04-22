@@ -30,9 +30,10 @@ Technologies Used
 Installation
 
 To run the weather dashboard locally, simply download the files and open the index.html file in a web browser.
+
 Credits
 
-    This project was created as part of [insert_course_name_or_project_source].
+This project is authored by [JULIETTE NGUM]. Special thanks to [COURSE INSTRUCTOR MR CHRISTOPHER].
 
 License
 
